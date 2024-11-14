@@ -1,6 +1,6 @@
 
 
-/* Complete methods: copyFrontAndBack and __________. 
+/* Complete methods: copyFrontAndBack and maxWordLength. 
  * DO NOT MODIFY THE MAIN METHOD!
  *
  *Array task: Complete the method copyFrontAndBack. 
